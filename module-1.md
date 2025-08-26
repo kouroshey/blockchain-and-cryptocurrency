@@ -12,7 +12,7 @@ This module introduces the concept of blockchains, their limitations, and paymen
 
 ## What is a Blockchain?
 
-A **blockchain** is a list of records, often referred to as a ledger, that utilizes elements of cryptography to store transactions in an open, tamperproof way. Each "block" rep represents a new grouping of transactions and contains three key components:
+A **blockchain** is a list of records, often referred to as a ledger, that utilizes elements of cryptography to store transactions in an open, tamperproof way. Each "block" represents a new grouping of transactions and contains three key components:
 
 1. **Data:** The information stored in each block depends on the type of blockchain. For instance, many cryptocurrencies such as Bitcoin store transaction details like the sender, receiver, and amount. 
 2. **Hash:** A block's *hash* is a unique string of characters used to identify and distinguish it from other blocks.
